@@ -1,0 +1,45 @@
+
+    /* Add your custom CSS styles here */
+    .slideshow-container {
+        max-width: 500px;
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .mySlides {
+        display: none;
+        width: 495px;
+        height:550px;
+        
+    }
+
+    #id{
+        width: 100%;
+        height: 100%;
+        font-family: 'Cursive', sans-serif;
+        font-size:35px;
+    }
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+    }
+
+    .prev {
+        left: 0;
+    }
+
+    .next {
+        right: 0;
+    }
+.h2o{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+text-decoration: underline;
+font-weight: bold;
+}
